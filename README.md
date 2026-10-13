@@ -7,13 +7,6 @@ This Repository contains Software and Hardware for a complete CNC-Pendant which 
   <img src="docs/images/logo.svg" alt="gleeworks" width="120">
 </p>
 
-<h1 align="center">CNC Pendant</h1>
-
-<p align="center">
-  An open handwheel pendant for CNC machines, built around the Raspberry Pi Pico 2 W.<br>
-  Emulates the <b>XHC WHB04B-6</b> – works with LinuxCNC out of the box, no driver changes needed.
-</p>
-
 <p align="center">
   <img src="docs/images/explosion.gif" alt="Exploded view of the pendant" width="700">
 </p>
